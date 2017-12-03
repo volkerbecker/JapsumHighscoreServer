@@ -1,0 +1,10 @@
+<!-- Indices written at Thu, 7 Aug 2014 23:59:59 CEST -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="highscore" ancestor="true" source="auto">
+        <property name="points" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>
